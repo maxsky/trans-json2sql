@@ -19,6 +19,6 @@ pip3 install pymysql
 
 ```
 python3 translate_json_to_sql.py 读取文件 表名
-# 实例
+# 示例
 python3 translate_json_to_sql.py users.json users
 ```
